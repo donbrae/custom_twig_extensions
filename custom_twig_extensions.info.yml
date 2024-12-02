@@ -1,0 +1,4 @@
+name: Custom Twig Extensions
+type: module
+description: 'Provides custom Twig extensions.'
+core_version_requirement: ^8 || ^9 || ^10
